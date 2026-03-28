@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Chào các bạn, mình là Gemma Phạm (Như Quỳnh)!
 
-<!--
-**nq0912202-ai/nq0912202-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fresher Java Developer | Logistics Domain Expert**
 
-Here are some ideas to get you started:
+Cựu sinh viên Đại học FPT với nền tảng Kinh doanh Quốc tế. Mình chuyển hướng sang IT với mong muốn dùng công nghệ số hóa ngành Logistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **FPT University**: Logistics & Supply Chain Management.
+- 💻 **Tech Stack**: Java Core, Spring Framework, Hibernate, SQL Server, HTML/CSS/JS.
+- 🗣️ **Languages**: Tiếng Anh (Tốt), Tiếng Trung (Cơ bản).
+
+---
+
+## 🛠️ Dự án nổi bật (Personal Projects)
+
+### 📦 [Logistics Management System]
+* **Java | Spring Boot | SQL Server**
+* Ứng dụng gom hàng lẻ (LCL) cho Forwarder, tự động tính cước chênh lệch và refund.
+* 👉 **[Xem Source Code]** | **[Xem Demo Video/Hệ thống (nếu có)]**
+
+---
+
+## 📫 Liên hệ
+
+- 📧 Email: nq0912202@gmail.com
+- 🔗 LinkedIn: `[Link LinkedIn của bạn]`
