@@ -15,11 +15,11 @@ Cựu sinh viên Đại học FPT với nền tảng Kinh doanh Quốc tế. Mì
 ### 📦 [Logistics Management System]
 * **Java | Spring Boot | SQL Server**
 * Ứng dụng gom hàng lẻ (LCL) cho Forwarder, tự động tính cước chênh lệch và refund.
-* 👉 **[Xem Source Code]** | **[Xem Demo Video/Hệ thống (nếu có)]**
+* 👉 **[Xem Source Code Hệ Thống Tính Cước LCL tại đây](https://github.com/nq0912202-ai/Logistics-LCL-Calculator-Demo)**
 
 ---
 
 ## 📫 Liên hệ
 
 - 📧 Email: nq0912202@gmail.com
-- 🔗 LinkedIn: `[Link LinkedIn của bạn]`
+
